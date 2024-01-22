@@ -1,2 +1,3 @@
-# lecture-stats.notebokks
+# lecture-stats.notebooks
+
 Companion notebook repository for lecture-stats
